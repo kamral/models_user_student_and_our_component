@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'user_custom_model_version.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'models_are_users_8',
+        'NAME': 'models_are_users_10',
         'USER': 'super_user_model',
         'PASSWORD': 'password',
         'HOST': '127.0.0.1',
